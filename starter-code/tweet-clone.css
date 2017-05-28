@@ -1,0 +1,72 @@
+
+body{
+  background: rgb(244, 248, 249)
+}
+.square{
+  align:center;
+  background: white;
+  border-style: solid;
+  border-color: rgb(225, 232, 237);
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+.profile_pic{
+  margin-left: 25px;
+  margin-top: 35px;
+}
+.usr_name{
+  margin-left: 120px;
+  margin-top: -70px;
+  font-size: 2em;
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+.account{
+  margin-left: 110px;
+  margin-top: -20px;
+  font-size: 1.3em;
+  color: rgb(104, 109, 129);
+}
+.tweet{
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 1.7em;
+  color: black;
+}
+.time{
+
+  margin-left: 20px;
+  margin-top: -10px;
+  color: rgb(101, 116, 127);
+  font-size: 1.4em;
+}
+.buttons{
+  margin-left: 20px;
+  margin-top: 50px;
+  color: rgb(105, 120, 130);
+  font-size: 1.33em;
+  margin-bottom: 20px;
+}
+
+
+.box{
+  float:right;
+  border:1px red;
+  margin-right: 75px;
+  border: rgb(255, 0, 0);
+}
+#follow{
+  color: rgb(85, 172, 238);
+  font-size: 1.4em;
+  font-weight: bold;
+  font-family: helvetica;
+
+
+}
+
+/*By21*/
+/*FerPalma*/
