@@ -1,6 +1,7 @@
 
 body{
   background: rgb(244, 248, 249)
+  font:Helvetica;
 }
 .square{
   align:center;
@@ -21,7 +22,6 @@ body{
   margin-left: 120px;
   margin-top: -70px;
   font-size: 2em;
-  font-family: Helvetica;
   font-weight: bold;
 }
 
@@ -46,25 +46,22 @@ body{
 }
 .buttons{
   margin-left: 20px;
-  margin-top: 50px;
+  margin-top: 40px;
   color: rgb(105, 120, 130);
   font-size: 1.33em;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
-
 
 .box{
   float:right;
-  border:1px red;
+  border:2px rgb(85, 172, 238);
+  border-radius: 3px;
   margin-right: 75px;
-  border: rgb(255, 0, 0);
 }
 #follow{
   color: rgb(85, 172, 238);
   font-size: 1.4em;
   font-weight: bold;
-  font-family: helvetica;
-
 
 }
 
