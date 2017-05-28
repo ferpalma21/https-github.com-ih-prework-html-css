@@ -12,7 +12,6 @@ body{
   margin-top: 20px;
   margin-left: 50px;
   margin-right: 50px;
-
 }
 .profile_pic{
   margin-left: 25px;
@@ -24,7 +23,6 @@ body{
   font-size: 2em;
   font-weight: bold;
 }
-
 .account{
   margin-left: 110px;
   margin-top: -20px;
@@ -38,7 +36,6 @@ body{
   color: black;
 }
 .time{
-
   margin-left: 20px;
   margin-top: -10px;
   color: rgb(101, 116, 127);
@@ -51,7 +48,6 @@ body{
   font-size: 1.33em;
   margin-bottom: 40px;
 }
-
 .box{
   float:right;
   border:2px rgb(85, 172, 238);
@@ -62,7 +58,6 @@ body{
   color: rgb(85, 172, 238);
   font-size: 1.4em;
   font-weight: bold;
-
 }
 
 /*By21*/
