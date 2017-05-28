@@ -50,14 +50,16 @@ body{
 }
 .box{
   float:right;
-  border:2px rgb(85, 172, 238);
-  border-radius: 3px;
+  border:1px solid rgb(85, 172, 238);
+  border-radius: 6px;
   margin-right: 75px;
+
 }
 #follow{
   color: rgb(85, 172, 238);
   font-size: 1.4em;
   font-weight: bold;
+  margin: 11px;
 }
 
 /*By21*/
