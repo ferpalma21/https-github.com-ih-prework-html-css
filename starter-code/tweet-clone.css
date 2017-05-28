@@ -1,7 +1,7 @@
 
 body{
-  background: rgb(244, 248, 249)
-  font:Helvetica;
+  background: rgb(244, 248, 249);
+  font-family: Helvetica;
 }
 .square{
   align:center;
